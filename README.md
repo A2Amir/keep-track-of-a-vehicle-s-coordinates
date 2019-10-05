@@ -34,6 +34,21 @@ for example i am goning to pick theta to be fifty three point one three degrees(
  
  You saw earlier that if D=5, then Delta x = 3 and Delta y= 4 but If D = 10 meters "Delta x" would be 6 meters and "Delta y"  would be 8 meters then we can canclude 
 **When driving at a heading of 53.13 degrees, the ratio of a car's vertical displacement to its total displacement will always equal 4/5**
+
+
+You just calculated the following values for a vehicle with a heading of 53.13 degrees
+     DDD 	Δy\Delta yΔy 	Δx\Delta xΔx
+     5 	4 	3
+     10 	8 	6
+     1 	4/5 	3/5
+
+But really, for this particular angle we can say something much more general. We can say:
+
+Δy=45×D\Delta y = \frac{4}{5}\times DΔy=54​×D
+
+Δx=35×D\Delta x = \frac{3}{5}\times DΔx=53​×D
+
+And these are very useful equations! They tell us that the vertical displacement is equal to total displacement times some multiplier (in this case ⅘). Likewise, horizontal displacement is total displacement times some other multiplier (in this case ⅗).
  
 
 
