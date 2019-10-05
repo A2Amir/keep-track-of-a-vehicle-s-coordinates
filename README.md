@@ -37,10 +37,13 @@ for example i am goning to pick theta to be fifty three point one three degrees(
 
 we just calculated the following values for a vehicle with a heading of 53.13 degrees
 
-        D |	Δy | Δx
-        5 |	4 	|3
-        10| 8 	|6
-        1 |4/5	|3/5
+D |	Δy | Δx
+5 |	4 	|3
+10| 8 	|6
+1 |4/5	|3/5
+        
+ | Format   | Tag example |
+ | -------- | ----------- |
 
 But really, for this particular angle we can say something much more general. We can say:
 
