@@ -51,6 +51,6 @@ But really, for this particular angle we can say something much more general. We
 
 And these are very useful equations! They tell us that the vertical displacement is equal to total displacement times some multiplier (in this case 4/5). Likewise, horizontal displacement is total displacement times some other multiplier (in this case 3/5).
  
-
-
+**That is just one angle what if we are driving with a heading of 27.2 degree or negative 112.5? how we can calculate delta x and delta y in those situations? we would like to use a multipliers just we did with three and four and five triangle (above). the trig gives us a way to easy calculate mutipliers for any angle**
+the first thing we need is a naming convention for talking about the size of a right triangle
 
