@@ -68,6 +68,7 @@ The sine, cosine, and tangent are all trigonometric ratios. A helpful mnemonic f
 <p align="right">
 <img src="./img/7.PNG" width="593" height="397" alt=" all trigonometric ratios " />
 <p align="right">
+There are [three ways]() you could find the value of a trig function at a particular angle.
 
 
  
