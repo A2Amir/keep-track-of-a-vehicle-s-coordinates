@@ -83,7 +83,7 @@ To find out the 'x',
 
 
 <p align="right">
-<img src="./img/8.PNG" width="593" height="597" alt=" example " />
+<img src="./img/8.PNG" width="593" height="497" alt=" example " />
 <p align="right">
  
  
