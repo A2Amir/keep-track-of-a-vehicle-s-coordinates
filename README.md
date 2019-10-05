@@ -87,10 +87,10 @@ To find out the 'x',
 <p align="right">
  
  
-Now that you know how to solve trigonometry problems, you can keep track of a vehicle's xand y coordinates as it moves in any direction. you can  [here]() the ralted code.
+Now that you know how to solve trigonometry problems, you can keep track of a vehicle's xand y coordinates as it moves in any direction. you can  [here](https://github.com/A2Amir/Trajectory-of-a-car/blob/master/KeepingTrackofxandy(Amir).ipynb) the ralted code.
 
 <p align="right">
-<img src="./img/8.PNG" width="593" height="597" alt=" Keeping Track of Vehicle x and y " />
+<img src="./img/9.PNG" width="593" height="597" alt=" Keeping Track of Vehicle x and y " />
 <p align="right">
 
  
