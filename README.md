@@ -34,7 +34,25 @@ for example i am goning to pick theta to be fifty three point one three degrees(
  
  You saw earlier that if D=5, then Delta x = 3 and Delta y= 4 but If D = 10 meters "Delta x" would be 6 meters and "Delta y"  would be 8 meters then we can canclude 
 **When driving at a heading of 53.13 degrees, the ratio of a car's vertical displacement to its total displacement will always equal 4/5**
+
+we just calculated the following values for a vehicle with a heading of 53.13 degrees
+
+        
+ | D   | Δy | Δx|
+ | --  | -- |-- |
+ | 5 |	4 	|3|
+ |10| 8 	|6|
+ |1 |4/5	|3/5|
+
+But really, for this particular angle we can say something much more general. We can say:
+
+    Δy=4/5×D
+    Δx=3/5×D
+
+And these are very useful equations! They tell us that the vertical displacement is equal to total displacement times some multiplier (in this case 4/5). Likewise, horizontal displacement is total displacement times some other multiplier (in this case 3/5).
  
+**That is just one angle what if we are driving with a heading of 27.2 degree or negative 112.5? how we can calculate delta x and delta y in those situations? we would like to use a multipliers just we did with three and four and five triangle (above). the trig gives us a way to easy calculate mutipliers for any angle**
 
 
+the first thing we need is a naming convention for talking about the size of a right triangle
 
