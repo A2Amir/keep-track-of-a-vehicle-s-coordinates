@@ -24,4 +24,14 @@ But the question is what if the heading is not along X or Y coordinate axis? wha
 <img src="./img/1.PNG" width="593" height="397" alt="the car pointing at some weired angle" />
 <p align="right">
  
-d
+Looking at the diagram below ,if we are going to make scatter plots of position data, we need to know exactly what the value of delta X and delta y are and this will require some trigonometry which is the mathematic of right triangles(because two of the sides meet at aright angle).
+
+<p align="right">
+<img src="./img/1.PNG" width="593" height="397" alt="the car pointing at some weired angle" />
+<p align="right">
+ 
+What is amazing about trigonometry is this, if you give an actual numeric value for D in this angle which called theta, delta x and delta y can be calculate exactly. But befor calculating for any angle or any displacement we are going to start with some very specific values.
+
+
+
+
