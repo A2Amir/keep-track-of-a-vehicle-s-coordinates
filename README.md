@@ -18,10 +18,23 @@ Or if the car pointing north and then moves forward by D meters, the y coordinat
 <img src="./img/3.PNG" width="593" height="397" alt="the vehicle moves forward by D meters" />
 <p align="right">
  
-But the question is what if the heading is not along X or Y coordinate axis? what if the car pointing at some weired angle like below and moves forward by D meters, what can we say about the value for delta X and for delta Y in a situation like this.
+But the question is what if the heading is not along x or y coordinate axis? what if the car pointing at some weired angle like below and moves forward by D meters, what can we say about the value for delta x and for delta y in a situation like this.
 
 <p align="right">
-<img src="./img/1.PNG" width="593" height="397" alt="the car pointing at some weired angle" />
+<img src="./img/4.PNG" width="593" height="397" alt="the car pointing at some weired angle" />
 <p align="right">
  
-d
+Looking at the diagram above ,if we are going to make scatter plots of position data, we need to know exactly what the value of delta x and delta y are and this will require some trigonometry which is the mathematic of right triangles(because two of the sides meet at aright angle).
+**What is amazing about trigonometry is this, if you give an actual numeric value for D in this angle which called theta, delta x and delta y can be calculate exactly. But befor calculating for any angle or any displacement we are going to start with some very specific values.**
+
+for example i am goning to pick theta to be fifty three point one three degrees(53.13) and D is going to be five meters and the reason for picking these numbers is because it turns out that when acr with a heading of fifty three point one three(53.13) degrees moves forward by five meters, if you measure delta x and delta y  you fund they are equal three meters and four meters.
+<p align="right">
+<img src="./img/5.PNG" width="593" height="397" alt="a heading of fifty three point one three(53.13)" />
+<p align="right">
+ 
+ You saw earlier that if D=5, then Delta x = 3 and Delta y= 4 but If D = 10 meters "Delta x" would be 6 meters and "Delta y"  would be 8 meters then we can canclude 
+**When driving at a heading of 53.13 degrees, the ratio of a car's vertical displacement to its total displacement will always equal 4/5**
+ 
+
+
+
