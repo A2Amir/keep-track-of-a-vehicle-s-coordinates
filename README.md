@@ -61,5 +61,13 @@ the first thing we need is a naming convention for talking about the size of a r
 <img src="./img/6.PNG" width="593" height="397" alt=" a naming convention " />
 <p align="right">
  
+Now we can talk about the sides of a right triangle using words like opposite, hypotenuse, adjacent and the ratios of those sides. the trigonomertic ratios are called sine,cosine and tangent.
+
+The sine, cosine, and tangent are all trigonometric ratios. A helpful mnemonic for remembering which sides each of these ratios compare is SOH - CAH - TOA
+
+<p align="right">
+<img src="./img/7.PNG" width="593" height="397" alt=" all trigonometric ratios " />
+<p align="right">
+
 
  
