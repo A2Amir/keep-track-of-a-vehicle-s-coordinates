@@ -36,6 +36,7 @@ for example i am goning to pick theta to be fifty three point one three degrees(
 **When driving at a heading of 53.13 degrees, the ratio of a car's vertical displacement to its total displacement will always equal 4/5**
 
 we just calculated the following values for a vehicle with a heading of 53.13 degrees
+
         D |	Δy | Δx
         5 |	4 	|3
         10| 8 	|6
