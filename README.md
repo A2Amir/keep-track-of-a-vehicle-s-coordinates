@@ -21,7 +21,7 @@ Or if the car pointing north and then moves forward by D meters, the y coordinat
 But the question is what if the heading is not along X or Y coordinate axis? what if the car pointing at some weired angle like below and moves forward by D meters, what can we say about the value for delta X and for delta Y in a situation like this.
 
 <p align="right">
-<img src="./img/1.PNG" width="593" height="397" alt="the car pointing at some weired angle" />
+<img src="./img/4.PNG" width="593" height="397" alt="the car pointing at some weired angle" />
 <p align="right">
  
 Looking at the diagram below ,if we are going to make scatter plots of position data, we need to know exactly what the value of delta X and delta y are and this will require some trigonometry which is the mathematic of right triangles(because two of the sides meet at aright angle).
