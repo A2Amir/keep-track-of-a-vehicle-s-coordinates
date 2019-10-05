@@ -53,6 +53,13 @@ And these are very useful equations! They tell us that the vertical displacement
  
 **That is just one angle what if we are driving with a heading of 27.2 degree or negative 112.5? how we can calculate delta x and delta y in those situations? we would like to use a multipliers just we did with three and four and five triangle (above). the trig gives us a way to easy calculate mutipliers for any angle**
 
+the first thing we need is a naming convention for talking about the size of a right triangle:
+* the longest side of the right triangle is called the hypotenuse side.
+* the side on the right, the one that is opposit the reference angle(theta) called the opposite side.
+* the last remaining side, that is next to the reference angle called the adjecent side
+<p align="right">
+<img src="./img/6.PNG" width="593" height="397" alt=" a naming convention " />
+<p align="right">
+ 
 
-the first thing we need is a naming convention for talking about the size of a right triangle
-
+ 
