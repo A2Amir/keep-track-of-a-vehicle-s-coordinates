@@ -55,7 +55,7 @@ And these are very useful equations! They tell us that the vertical displacement
 
 the first thing we need is a naming convention for talking about the size of a right triangle:
 * the longest side of the right triangle is called the hypotenuse side.
-* the side on the right, the one that is opposit the reference angle called the opposite side.
+* the side on the right, the one that is opposit the reference angle(theta) called the opposite side.
 * the last remaining side, that is next to the reference angle called the adjecent side
 <p align="right">
 <img src="./img/6.PNG" width="593" height="397" alt=" a naming convention " />
