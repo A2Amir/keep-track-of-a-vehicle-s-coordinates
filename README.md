@@ -68,6 +68,7 @@ The sine, cosine, and tangent are all trigonometric ratios. A helpful mnemonic f
 <p align="right">
 <img src="./img/7.PNG" width="593" height="397" alt=" all trigonometric ratios " />
 <p align="right">
+ 
 There are [three ways](https://github.com/A2Amir/Trajectory-of-a-car/blob/master/Looking%20up%20Trig%20Ratios.ipynb) you could find the value of a trig function at a particular angle. but remember our initial problem,given the vehicles heading angle and displacement and calculate delta x and delta y, now we can solve the problem by instead thinking about a vehicle and a displacement we just think about a right triangle and change our problem to given a right trangle's reference and hypotenuse then calculate the lengths of the adjacent and opposite sides.
  
 for example, we have a vehicle with a heading of 65 degrees and displacement of 17 meters:
@@ -81,9 +82,8 @@ To find out the 'x',
 
 
 
-
 <p align="right">
-<img src="./img/8.PNG" width="593" height="397" alt=" example " />
+<img src="./img/8.PNG" width="593" height="597" alt=" example " />
 <p align="right">
  
  
