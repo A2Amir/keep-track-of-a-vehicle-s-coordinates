@@ -9,19 +9,19 @@ Before we jump into trigonometry, I want to familiarize you with the Vehicle cla
 
 Beacuse we constrained the car suppose this way((E)ast, (N)orth, (W)est, or (S)outh), it is easey to figure out what is happend when the vehicle moves forward by D meters. for exapmle if we have a car pointing east and moves forward by D meters, we can see the X cordinate just increases by D and Y coordinate does'nt change at all.
 
-<p align="center">
+<p align="right">
 <img src="./img/2.PNG" width="593" height="397" alt="the vehicle moves forward by D meters " />
-<p align="center">
+<p align="right">
  
 Or if the car pointing north and then moves forward by D meters, the y coordinate will increase by D and the x coordinate will be left unchanged.
-<p align="center">
+<p align="right">
 <img src="./img/3.PNG" width="593" height="397" alt="the vehicle moves forward by D meters" />
-<p align="center">
+<p align="right">
  
 But the question is what if the heading is not along X or Y coordinate axis? what if the car pointing at some weired angle like below and moves forward by D meters, what can we say about the value for delta X and for delta Y in a situation like this.
 
-<p align="center">
+<p align="right">
 <img src="./img/1.PNG" width="593" height="397" alt="the car pointing at some weired angle" />
-<p align="center">
+<p align="right">
  
 d
