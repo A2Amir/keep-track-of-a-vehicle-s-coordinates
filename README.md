@@ -94,4 +94,4 @@ Now that you know how to solve trigonometry problems, you can keep track of a ve
 <p align="right">
  
 
- ![Gif](./scatter.gif) 
+ ![Gif](./TR.gif) 
