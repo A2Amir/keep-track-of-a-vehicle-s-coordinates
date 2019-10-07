@@ -89,9 +89,10 @@ To find out the 'x',
  
 Now that you know how to solve trigonometry problems, you can keep track of a vehicle's xand y coordinates as it moves in any direction. you can find [here](https://github.com/A2Amir/Trajectory-of-a-car/blob/master/KeepingTrackofxandy(Amir).ipynb) the ralted code.
 
-<p align="right">
-<img src="./img/9.PNG" width="593" height="397" alt=" Keeping Track of Vehicle x and y " />
-<p align="right">
- 
+
 
  ![Gif](./TR.gif) 
+ <p align="center">
+<img src="./img/9.PNG" width="593" height="397" alt=" Keeping Track of Vehicle x and y " />
+<p align="center">
+ 
