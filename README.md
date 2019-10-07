@@ -92,5 +92,6 @@ Now that you know how to solve trigonometry problems, you can keep track of a ve
 <p align="right">
 <img src="./img/9.PNG" width="593" height="397" alt=" Keeping Track of Vehicle x and y " />
 <p align="right">
-
  
+
+ ![Gif](./scatter.gif) 
